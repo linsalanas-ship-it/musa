@@ -1,0 +1,735 @@
+[
+  {
+    "categoria": "Palavras e Letras",
+    "texto": "Pegue seu nome e escreva um acróstico — cada letra inicia um verso sobre quem você é hoje."
+  },
+  {
+    "categoria": "Palavras e Letras",
+    "texto": "Escreva um texto curto usando só palavras de uma sílaba. Sinta o ritmo seco que isso cria."
+  },
+  {
+    "categoria": "Palavras e Letras",
+    "texto": "Escolha três palavras aleatórias de um livro perto de você. Escreva uma frase que contenha as três."
+  },
+  {
+    "categoria": "Palavras e Letras",
+    "texto": "Escreva um parágrafo inteiro sem usar a letra <em>A</em>.",
+    "credito": "Na tradição dos lipogramas de Georges Perec e do grupo OuLiPo."
+  },
+  {
+    "categoria": "Palavras e Letras",
+    "texto": "Escreva um parágrafo evitando a letra <em>E</em>, a mais comum do português. Veja os desvios que você é forçado a inventar.",
+    "credito": "Inspirado em La Disparition, de Georges Perec, e na tradição lipograma do OuLiPo."
+  },
+  {
+    "categoria": "Palavras e Letras",
+    "texto": "Escolha um substantivo de oito letras ou mais e forme com ele o maior número de palavras menores que conseguir. Depois escreva um parágrafo usando todas elas."
+  },
+  {
+    "categoria": "Palavras e Letras",
+    "texto": "Pense na palavra <em>saudade</em>. Agora invente uma palavra para um sentimento que ainda não tem nome. Descreva esse sentimento em um parágrafo."
+  },
+  {
+    "categoria": "Palavras e Letras",
+    "texto": "Invente uma palavra nova. Escreva sua definição de dicionário, um exemplo de uso e a origem etimológica (inventada também)."
+  },
+  {
+    "categoria": "Palavras e Letras",
+    "texto": "Escreva uma frase com exatamente sete palavras. Agora reescreva a mesma ideia com exatamente três. Depois com uma só."
+  },
+  {
+    "categoria": "Palavras e Letras",
+    "texto": "Escreva cinco frases. Cada uma deve começar com a última palavra da frase anterior."
+  },
+  {
+    "categoria": "Palavras e Letras",
+    "texto": "Escolha uma palavra com pelo menos seis letras. Escreva um micro-conto usando apenas palavras que comecem com as letras dessa palavra, na ordem."
+  },
+  {
+    "categoria": "Palavras e Letras",
+    "texto": "Escreva uma história de 26 frases, uma para cada letra do alfabeto, de A a Z, em ordem."
+  },
+  {
+    "categoria": "Palavras e Letras",
+    "texto": "Escolha uma palavra qualquer e escreva o início de uma história com cada letra dela. Uma frase por letra."
+  },
+  {
+    "categoria": "Palavras e Letras",
+    "texto": "Pegue a última palavra que você falou em voz alta. Escreva um parágrafo em que ela apareça pelo menos três vezes, com sentidos diferentes."
+  },
+  {
+    "categoria": "Palavras e Letras",
+    "texto": "Componha três frases curtas em que quase todas as palavras usem a mesma vogal: primeiro só com <em>a</em>, depois só com <em>e</em>, depois só com <em>o</em>."
+  },
+  {
+    "categoria": "Primeiras Linhas",
+    "texto": "Comece uma história com: <em>\"Ele deixou o bilhete na mesa e saiu sem fechar a porta.\"</em> O que dizia o bilhete?"
+  },
+  {
+    "categoria": "Primeiras Linhas",
+    "texto": "Comece com: <em>\"Acordei e descobri que eu era a única pessoa que tinha sobrado na cidade.\"</em>"
+  },
+  {
+    "categoria": "Primeiras Linhas",
+    "texto": "Comece com: <em>\"No testamento, ela me deixou apenas uma chave e um bilhete com três palavras.\"</em> Quais eram as três palavras?"
+  },
+  {
+    "categoria": "Primeiras Linhas",
+    "texto": "Escreva a abertura de uma carta que nunca vai ser enviada."
+  },
+  {
+    "categoria": "Primeiras Linhas",
+    "texto": "Comece um conto com: <em>\"Era a terceira vez que a mesma pessoa aparecia na fila do café.\"</em>"
+  },
+  {
+    "categoria": "Primeiras Linhas",
+    "texto": "Comece com: <em>\"Ninguém avisou que seria assim.\"</em> — continue por pelo menos cinco frases."
+  },
+  {
+    "categoria": "Primeiras Linhas",
+    "texto": "Escreva a primeira frase de uma autobiografia fictícia de alguém que você nunca conheceu."
+  },
+  {
+    "categoria": "Primeiras Linhas",
+    "texto": "Comece com: <em>\"O telefone tocou às três da manhã, e do outro lado alguém só respirava.\"</em>"
+  },
+  {
+    "categoria": "Primeiras Linhas",
+    "texto": "Comece com: <em>\"Na terça-feira, a minha xícara de café começou a falar comigo.\"</em> O que ela tinha para dizer?"
+  },
+  {
+    "categoria": "Primeiras Linhas",
+    "texto": "Comece com: <em>\"Foi a última vez que a vi, e eu ainda não sabia disso.\"</em>"
+  },
+  {
+    "categoria": "Primeiras Linhas",
+    "texto": "Comece com: <em>\"Eu nunca contei isto a ninguém, mas já é tarde demais para continuar guardando.\"</em>"
+  },
+  {
+    "categoria": "Primeiras Linhas",
+    "texto": "Escreva o primeiro parágrafo de um romance que começa no meio de uma tempestade."
+  },
+  {
+    "categoria": "Primeiras Linhas",
+    "texto": "Comece um texto com: <em>\"O problema com a verdade é que ela muda de forma dependendo de quem olha.\"</em>"
+  },
+  {
+    "categoria": "Primeiras Linhas",
+    "texto": "Em vez de começar pelo começo, escreva primeiro a frase que estaria no meio da história — o ponto de virada. Só depois descubra o que vem antes e o que vem depois dela."
+  },
+  {
+    "categoria": "Primeiras Linhas",
+    "texto": "Comece uma história com: <em>\"Quando abri a porta, percebi que a casa não era mais minha.\"</em>"
+  },
+  {
+    "categoria": "Perspectiva",
+    "texto": "Descreva a chuva do ponto de vista de alguém que mora num deserto e a vê pela primeira vez."
+  },
+  {
+    "categoria": "Perspectiva",
+    "texto": "Descreva um dia inteiro do ponto de vista de um par de sapatos velhos. O que eles veem lá de baixo? Do que eles já se cansaram?"
+  },
+  {
+    "categoria": "Perspectiva",
+    "texto": "Escreva sobre uma cidade inteira do ponto de vista de um pássaro que a sobrevoa pela primeira vez."
+  },
+  {
+    "categoria": "Perspectiva",
+    "texto": "Escreva pela perspectiva de uma casa que viu famílias entrarem e saírem por cinquenta anos. De qual delas ela sente mais falta?"
+  },
+  {
+    "categoria": "Perspectiva",
+    "texto": "Conte um acontecimento importante pela pessoa mais lateral da cena: o garçom, o entregador, alguém que só passava por ali."
+  },
+  {
+    "categoria": "Perspectiva",
+    "texto": "Escreva como um rio descreveria as pessoas que vivem nas suas margens, da nascente até a foz."
+  },
+  {
+    "categoria": "Perspectiva",
+    "texto": "Escreva uma cena de jantar do ponto de vista da cadeira vazia à mesa."
+  },
+  {
+    "categoria": "Perspectiva",
+    "texto": "Pegue um conflito simples e narre-o pelo ponto de vista de quem, na sua história, seria <em>o errado</em>. Faça o leitor entendê-lo de dentro."
+  },
+  {
+    "categoria": "Perspectiva",
+    "texto": "Escreva um parágrafo sobre o mar, como se você nunca tivesse visto água antes."
+  },
+  {
+    "categoria": "Perspectiva",
+    "texto": "Conte a história de um livro — narrada pelo próprio livro, desde a livraria até a estante de alguém."
+  },
+  {
+    "categoria": "Perspectiva",
+    "texto": "Você é uma árvore em uma praça movimentada. Conte o que você viu hoje."
+  },
+  {
+    "categoria": "Perspectiva",
+    "texto": "Descreva sua manhã de hoje do ponto de vista de um objeto que você usou (uma caneca, uma escova, um travesseiro)."
+  },
+  {
+    "categoria": "Perspectiva",
+    "texto": "Descreva uma festa do ponto de vista de alguém que chegou no endereço errado."
+  },
+  {
+    "categoria": "Perspectiva",
+    "texto": "Descreva uma briga de família do começo ao fim pelos olhos do gato da casa — e pelo soberano desinteresse dele."
+  },
+  {
+    "categoria": "Restrições Criativas",
+    "texto": "Escreva uma conversa tensa sem usar nenhum verbo de fala como <em>disse</em>, <em>falou</em> ou <em>perguntou</em>. Mostre quem fala por outros meios."
+  },
+  {
+    "categoria": "Restrições Criativas",
+    "texto": "Escreva um texto usando apenas diálogos. Nenhuma narração, nenhuma descrição. Só falas."
+  },
+  {
+    "categoria": "Restrições Criativas",
+    "texto": "Conte uma história de amor em que a palavra amor nunca apareça."
+  },
+  {
+    "categoria": "Restrições Criativas",
+    "texto": "Escreva um parágrafo usando apenas frases de no máximo cinco palavras."
+  },
+  {
+    "categoria": "Restrições Criativas",
+    "texto": "Escreva um conto inteiro em uma única frase longa, sem ponto final no meio, que ainda assim feche um sentido completo.",
+    "credito": "Inspirado no exercício da \"frase única\" de Ursula K. Le Guin, em Steering the Craft."
+  },
+  {
+    "categoria": "Restrições Criativas",
+    "texto": "Descreva uma pessoa que você ama usando só substantivos e verbos. Nada de <em>lindo</em>, <em>rapidamente</em> ou qualquer qualificação.",
+    "credito": "Inspirado no exercício sobre adjetivos e advérbios de Ursula K. Le Guin, em Steering the Craft."
+  },
+  {
+    "categoria": "Restrições Criativas",
+    "texto": "Descreva um pôr do sol sem usar nenhuma cor."
+  },
+  {
+    "categoria": "Restrições Criativas",
+    "texto": "Escolha uma palavra qualquer. Escreva um texto curto em que ela apareça em todas as frases, mudando de sentido a cada vez."
+  },
+  {
+    "categoria": "Restrições Criativas",
+    "texto": "Escreva um texto onde todas as frases são mentiras — mas que no conjunto contam uma verdade."
+  },
+  {
+    "categoria": "Restrições Criativas",
+    "texto": "Escreva um diálogo entre duas pessoas, mas uma delas só pode responder com perguntas."
+  },
+  {
+    "categoria": "Restrições Criativas",
+    "texto": "Escreva uma cena de suspense usando apenas sons — nenhuma descrição visual."
+  },
+  {
+    "categoria": "Restrições Criativas",
+    "texto": "Escreva uma história de seis palavras. Hemingway fez uma famosa. Qual é a sua?"
+  },
+  {
+    "categoria": "Restrições Criativas",
+    "texto": "Em cem palavras, conte uma história que atravesse três momentos da vida de alguém: a infância, a vida adulta e a velhice."
+  },
+  {
+    "categoria": "Restrições Criativas",
+    "texto": "Escreva um micro-conto que caiba em um tuíte (280 caracteres)."
+  },
+  {
+    "categoria": "Restrições Criativas",
+    "texto": "Conte uma história inteira em exatamente 50 palavras. Nem uma a mais, nem uma a menos."
+  },
+  {
+    "categoria": "Memória e Emoção",
+    "texto": "Pense em uma música que te marcou. Escreva a cena que ela cria na sua cabeça quando toca."
+  },
+  {
+    "categoria": "Memória e Emoção",
+    "texto": "Pense em uma pessoa que você não vê há anos. Escreva o que você diria se a encontrasse agora na rua."
+  },
+  {
+    "categoria": "Memória e Emoção",
+    "texto": "Descreva a sensação de esperar por algo que você não sabe se vai acontecer."
+  },
+  {
+    "categoria": "Memória e Emoção",
+    "texto": "Escreva vinte frases seguidas, todas começando com <em>Eu me lembro</em>. Não pense muito — deixe uma lembrança puxar a próxima.",
+    "credito": "Inspirado em I Remember, de Joe Brainard."
+  },
+  {
+    "categoria": "Memória e Emoção",
+    "texto": "Escreva sobre um objeto que você perdeu e do qual ainda sente falta."
+  },
+  {
+    "categoria": "Memória e Emoção",
+    "texto": "Pense em um objeto que você guarda sem nenhuma utilidade prática. Escreva por que é impossível jogá-lo fora."
+  },
+  {
+    "categoria": "Memória e Emoção",
+    "texto": "Descreva um momento de felicidade tão pequeno que você quase não percebeu enquanto ele acontecia."
+  },
+  {
+    "categoria": "Memória e Emoção",
+    "texto": "Escreva uma carta para quem você era há dez anos. O que essa pessoa precisava ouvir?"
+  },
+  {
+    "categoria": "Memória e Emoção",
+    "texto": "Escreva sobre a primeira vez em que você entendeu que algo, ou alguém, não ia voltar. Foque na sensação, não na explicação."
+  },
+  {
+    "categoria": "Memória e Emoção",
+    "texto": "Descreva um cheiro que te transporta para outro tempo. O que você sente? Onde você está?"
+  },
+  {
+    "categoria": "Memória e Emoção",
+    "texto": "Escreva sobre a última vez que você riu até chorar. Tente fazer o leitor sentir a mesma coisa."
+  },
+  {
+    "categoria": "Memória e Emoção",
+    "texto": "Descreva um lugar da sua infância com o máximo de detalhes sensoriais que conseguir: cheiros, texturas, sons, luz."
+  },
+  {
+    "categoria": "Memória e Emoção",
+    "texto": "Escreva sobre algo que você queria ter dito a alguém e nunca disse. Diga agora, aqui no papel."
+  },
+  {
+    "categoria": "Personagens",
+    "texto": "Descreva um personagem apenas pelo que ele come no café da manhã e como ele come."
+  },
+  {
+    "categoria": "Personagens",
+    "texto": "Crie um personagem que só mente. Escreva uma cena em que isso cause um problema."
+  },
+  {
+    "categoria": "Personagens",
+    "texto": "Invente um vilão que acredita genuinamente estar fazendo a coisa certa. Escreva seu discurso de justificativa."
+  },
+  {
+    "categoria": "Personagens",
+    "texto": "Invente um personagem que tem um hábito estranho. Descreva uma cena cotidiana em que esse hábito aparece."
+  },
+  {
+    "categoria": "Personagens",
+    "texto": "Crie um personagem descrevendo apenas o conteúdo da sua bolsa (ou mochila, ou bolsos)."
+  },
+  {
+    "categoria": "Personagens",
+    "texto": "Defina um personagem só pelo que faz ele chorar, pelo que o irrita, e pelo que ele faria se tivesse certeza de que ninguém está olhando."
+  },
+  {
+    "categoria": "Personagens",
+    "texto": "Crie um personagem inteiro a partir de uma lista de compras esquecida no carrinho de um supermercado."
+  },
+  {
+    "categoria": "Personagens",
+    "texto": "Descreva um personagem apenas pelas coisas que as outras pessoas falam sobre ele."
+  },
+  {
+    "categoria": "Personagens",
+    "texto": "Descreva o quarto de alguém que acabou de sair às pressas. O que o cômodo conta sobre quem mora ali?"
+  },
+  {
+    "categoria": "Personagens",
+    "texto": "Crie um personagem a partir das últimas dez coisas que ele pesquisou na internet. O que esse rastro revela sobre o que ele teme ou deseja?"
+  },
+  {
+    "categoria": "Personagens",
+    "texto": "Escreva um monólogo interior de alguém preso em um elevador."
+  },
+  {
+    "categoria": "Personagens",
+    "texto": "Escreva uma cena em que dois estranhos esperam no mesmo ponto de ônibus. O que cada um pensa sobre o outro?"
+  },
+  {
+    "categoria": "Personagens",
+    "texto": "Escreva três mentiras que seu personagem repete com frequência. Deixe escapar, entre elas, a verdade que ele esconde."
+  },
+  {
+    "categoria": "Mundo e Lugares",
+    "texto": "Invente uma estação de metrô secreta que só aparece para algumas pessoas. Quem desce ali, e por quê?"
+  },
+  {
+    "categoria": "Mundo e Lugares",
+    "texto": "Crie um lugar onde o clima reage às emoções de quem vive nele. Descreva um dia comum sob esse efeito."
+  },
+  {
+    "categoria": "Mundo e Lugares",
+    "texto": "Descreva uma loja que vende algo que não se poderia vender — tempo, silêncio, lembranças. Como é o atendimento ali?"
+  },
+  {
+    "categoria": "Mundo e Lugares",
+    "texto": "Invente uma cidade com uma regra estranha. Descreva um dia normal nessa cidade."
+  },
+  {
+    "categoria": "Mundo e Lugares",
+    "texto": "Descreva uma rua que não existe, mas que você gostaria que existisse."
+  },
+  {
+    "categoria": "Mundo e Lugares",
+    "texto": "Imagine uma casa que ganha um cômodo novo toda vez que algo importante acontece na família. Faça uma visita guiada por ela."
+  },
+  {
+    "categoria": "Mundo e Lugares",
+    "texto": "Descreva uma livraria que vende apenas livros que ainda não foram escritos. Quais títulos estão na vitrine?"
+  },
+  {
+    "categoria": "Mundo e Lugares",
+    "texto": "Descreva o mesmo lugar em dois momentos: cheio de gente e completamente vazio."
+  },
+  {
+    "categoria": "Mundo e Lugares",
+    "texto": "Invente um lugar que existe entre o sono e a vigília. Como ele é? Quem você encontra lá?"
+  },
+  {
+    "categoria": "Mundo e Lugares",
+    "texto": "Escreva um guia turístico para um lugar imaginário. Inclua atrações, comidas típicas e um aviso aos visitantes."
+  },
+  {
+    "categoria": "Mundo e Lugares",
+    "texto": "Desenhe com palavras um bairro que não existe: suas ruas, seus pontos de encontro e o lugar que todo mundo evita."
+  },
+  {
+    "categoria": "Mundo e Lugares",
+    "texto": "Escreva sobre um cômodo vazio. O que ele diz sobre quem morava ali?"
+  },
+  {
+    "categoria": "Listas e Fragmentos",
+    "texto": "Escreva uma lista de dez coisas que você sabe que são verdade. Depois escolha uma e transforme em um parágrafo."
+  },
+  {
+    "categoria": "Listas e Fragmentos",
+    "texto": "Descreva uma festa que já acabou só pelos vestígios: os copos, os restos, o silêncio. Não mostre a festa — mostre o depois."
+  },
+  {
+    "categoria": "Listas e Fragmentos",
+    "texto": "Faça uma lista de cinco títulos para livros que você nunca vai escrever. Escolha um e escreva a sinopse da contracapa."
+  },
+  {
+    "categoria": "Listas e Fragmentos",
+    "texto": "Conte uma história inteira só pelos bilhetes que dois moradores deixam um para o outro na geladeira, ao longo de um mês."
+  },
+  {
+    "categoria": "Listas e Fragmentos",
+    "texto": "Faça uma lista numerada de verdades que um personagem só entendeu quando já era tarde para usá-las."
+  },
+  {
+    "categoria": "Listas e Fragmentos",
+    "texto": "Escreva a lista do que alguém deixou para trás ao se mudar às pressas. A lista deve contar a história sozinha."
+  },
+  {
+    "categoria": "Listas e Fragmentos",
+    "texto": "Comece uma lista de tarefas banais e deixe que, aos poucos, ela revele um segredo de quem a escreveu."
+  },
+  {
+    "categoria": "Listas e Fragmentos",
+    "texto": "Escreva os itens de uma lista de supermercado que, juntos, contam uma história."
+  },
+  {
+    "categoria": "Listas e Fragmentos",
+    "texto": "Escreva três versões do mesmo acontecimento: uma neutra, uma triste e uma cômica."
+  },
+  {
+    "categoria": "Listas e Fragmentos",
+    "texto": "Escreva o cardápio de um restaurante que serve emoções em vez de comida."
+  },
+  {
+    "categoria": "Listas e Fragmentos",
+    "texto": "Liste sete coisas que uma pessoa levaria para uma ilha deserta se essa pessoa fosse <em>você daqui a 20 anos</em>."
+  },
+  {
+    "categoria": "Listas e Fragmentos",
+    "texto": "Escreva cinco frases que poderiam ser a última frase de um romance."
+  },
+  {
+    "categoria": "Diálogos",
+    "texto": "Escreva um diálogo com muitas pausas e reticências, em que o que é silenciado pesa mais do que o que é dito."
+  },
+  {
+    "categoria": "Diálogos",
+    "texto": "Escreva um diálogo entre você e uma versão sua de outro tempo (passado ou futuro)."
+  },
+  {
+    "categoria": "Diálogos",
+    "texto": "Duas pessoas estão discutindo, mas nenhuma das duas fala sobre o verdadeiro motivo da briga. Escreva esse diálogo."
+  },
+  {
+    "categoria": "Diálogos",
+    "texto": "Escreva uma conversa entre duas pessoas que falam de coisas completamente diferentes sem que nenhuma das duas perceba."
+  },
+  {
+    "categoria": "Diálogos",
+    "texto": "Escreva uma despedida em que ninguém diz <em>adeus</em>, <em>tchau</em> ou qualquer variação. Faça doer mesmo assim."
+  },
+  {
+    "categoria": "Diálogos",
+    "texto": "Escreva uma cena de diálogo em que os personagens só falam por perguntas. Ninguém afirma nada."
+  },
+  {
+    "categoria": "Diálogos",
+    "texto": "Escreva um diálogo entre dois objetos da sua mesa (ou do cômodo onde você está agora)."
+  },
+  {
+    "categoria": "Diálogos",
+    "texto": "Escreva uma discussão entre duas pessoas enquanto elas tentam cozinhar juntas. O conflito real não é sobre a comida."
+  },
+  {
+    "categoria": "Diálogos",
+    "texto": "Escreva um diálogo em que uma das pessoas está mentindo. O leitor deve perceber, mas o outro personagem não."
+  },
+  {
+    "categoria": "Diálogos",
+    "texto": "Escreva uma ligação telefônica mostrando só o que uma das pessoas fala. Deixe o leitor deduzir o outro lado."
+  },
+  {
+    "categoria": "Diálogos",
+    "texto": "Crie uma conversa por mensagens de texto entre duas pessoas que acabaram de se conhecer."
+  },
+  {
+    "categoria": "Diálogos",
+    "texto": "Escreva uma conversa entre duas pessoas que falam idiomas diferentes e tentam se entender."
+  },
+  {
+    "categoria": "E se...?",
+    "texto": "E se toda vez que você mentisse, uma flor nascesse no lugar mais próximo? Escreva um dia dessa vida."
+  },
+  {
+    "categoria": "E se...?",
+    "texto": "E se você pudesse reviver um único dia da sua vida, só uma vez? Que dia você escolheria, e o que faria diferente?"
+  },
+  {
+    "categoria": "E se...?",
+    "texto": "E se as cores tivessem sabor? Descreva como seria comer um arco-íris."
+  },
+  {
+    "categoria": "E se...?",
+    "texto": "E se ninguém envelhecesse depois dos trinta anos? Escreva sobre uma família em que isso aconteceu e onde já não se sabe quem é mais velho."
+  },
+  {
+    "categoria": "E se...?",
+    "texto": "E se existisse um museu de momentos perdidos — aqueles que você esqueceu? Descreva uma visita."
+  },
+  {
+    "categoria": "E se...?",
+    "texto": "E se os sonhos das pessoas fossem transmitidos pela televisão à noite? Descreva uma noite assistindo ao sonho de um estranho."
+  },
+  {
+    "categoria": "E se...?",
+    "texto": "E se você encontrasse um diário de alguém que viveu na sua casa há cem anos? Escreva uma entrada desse diário."
+  },
+  {
+    "categoria": "E se...?",
+    "texto": "E se todo mundo nascesse sabendo o dia em que vai morrer? Escreva como seria uma conversa de primeiro encontro nesse mundo."
+  },
+  {
+    "categoria": "E se...?",
+    "texto": "E se existisse uma palavra que matasse quem a ouvisse? Escreva sobre quem a descobriu e o que decidiu fazer com ela."
+  },
+  {
+    "categoria": "E se...?",
+    "texto": "E se você acordasse amanhã e todas as pessoas tivessem esquecido quem você é? Escreva o primeiro capítulo desse dia."
+  },
+  {
+    "categoria": "E se...?",
+    "texto": "E se cada pessoa nascesse com um número visível que mostra quantas mentiras já contou? Escreva uma cena."
+  },
+  {
+    "categoria": "E se...?",
+    "texto": "E se você pudesse enviar uma mensagem para qualquer momento da história? Para quem, quando e o que diria?"
+  },
+  {
+    "categoria": "E se...?",
+    "texto": "E se você acordasse com as lembranças de outra pessoa na cabeça? Descreva o seu primeiro dia vivendo assim."
+  },
+  {
+    "categoria": "E se...?",
+    "texto": "E se as plantas pudessem falar, mas só de madrugada? Escreva o que o seu jardim (ou vaso) diria."
+  },
+  {
+    "categoria": "Observação",
+    "texto": "Observe, ou imagine, uma pessoa desconhecida em um lugar público. Descreva-a sem julgá-la — só pelo que é visível."
+  },
+  {
+    "categoria": "Observação",
+    "texto": "Descreva o som que você está ouvindo agora mesmo. Se estiver em silêncio, descreva esse silêncio."
+  },
+  {
+    "categoria": "Observação",
+    "texto": "Escolha um objeto ao seu redor e escreva sua biografia — de onde veio, o que já viveu, para onde vai."
+  },
+  {
+    "categoria": "Observação",
+    "texto": "Observe suas mãos. Escreva sobre elas como se fosse a primeira vez que as visse."
+  },
+  {
+    "categoria": "Observação",
+    "texto": "Pare e preste atenção nos próximos 60 segundos. Depois, escreva tudo o que percebeu."
+  },
+  {
+    "categoria": "Observação",
+    "texto": "Olhe pela janela mais próxima (ou imagine uma). Descreva exatamente o que você vê em um parágrafo detalhado."
+  },
+  {
+    "categoria": "Observação",
+    "texto": "Descreva uma rua que você conhece bem. Aponte tudo o que mudou nela com o tempo, e o que insistiu em ficar igual."
+  },
+  {
+    "categoria": "Observação",
+    "texto": "Descreva a luz do lugar onde você está agora. É quente? Fria? De onde vem? O que ela ilumina e o que deixa na sombra?"
+  },
+  {
+    "categoria": "Observação",
+    "texto": "Escolha um objeto banal perto de você e descreva-o por dez minutos sem repetir nenhuma observação. Vá fundo no que parecia óbvio."
+  },
+  {
+    "categoria": "Observação",
+    "texto": "Descreva três pares de mãos diferentes e deixe que cada par revele a idade, a profissão e a história de quem é dono delas."
+  },
+  {
+    "categoria": "Observação",
+    "texto": "Escolha alguém que você vê todo dia mas nunca falou — o porteiro, a vizinha. Imagine, a partir de pistas reais, como é a vida dessa pessoa."
+  },
+  {
+    "categoria": "Formas e Gêneros",
+    "texto": "Escreva uma bula de remédio para curar um mal emocional (ex: medo de começar, preguiça criativa, saudade crônica)."
+  },
+  {
+    "categoria": "Formas e Gêneros",
+    "texto": "Escreva um haiku (5-7-5 sílabas) sobre o momento presente."
+  },
+  {
+    "categoria": "Formas e Gêneros",
+    "texto": "Escreva o horóscopo da semana para os doze signos, mas como se cada previsão fosse o destino de um personagem diferente."
+  },
+  {
+    "categoria": "Formas e Gêneros",
+    "texto": "Escreva um anúncio de classificados que, lido com atenção, revela uma história triste ou engraçada nas entrelinhas."
+  },
+  {
+    "categoria": "Formas e Gêneros",
+    "texto": "Escreva uma previsão do tempo, mas para estados emocionais em vez de clima."
+  },
+  {
+    "categoria": "Formas e Gêneros",
+    "texto": "Escreva, em formato de receita culinária, o passo a passo para preparar um dia perfeito — ou um dia péssimo."
+  },
+  {
+    "categoria": "Formas e Gêneros",
+    "texto": "Escreva um classificado de jornal para algo que não pode ser vendido (um sentimento, uma lembrança, um sonho)."
+  },
+  {
+    "categoria": "Formas e Gêneros",
+    "texto": "Escreva uma notícia de jornal sobre um evento absurdo, no tom mais sério possível."
+  },
+  {
+    "categoria": "Formas e Gêneros",
+    "texto": "Escreva um manual de instruções para algo que não precisa de manual (ex: como tomar chuva, como ficar em silêncio)."
+  },
+  {
+    "categoria": "Formas e Gêneros",
+    "texto": "Escreva um verbete de enciclopédia sobre algo que não existe."
+  },
+  {
+    "categoria": "Formas e Gêneros",
+    "texto": "Escreva a sinopse de um filme que só existe na sua cabeça."
+  },
+  {
+    "categoria": "Formas e Gêneros",
+    "texto": "Escreva um horóscopo para um signo inventado."
+  },
+  {
+    "categoria": "Formas e Gêneros",
+    "texto": "Escreva uma receita de bolo, mas na verdade é uma metáfora para superar uma decepção."
+  },
+  {
+    "categoria": "Combinações",
+    "texto": "Escreva uma cena que misture dois gêneros que não combinam — um trecho de terror dentro de uma comédia romântica, por exemplo."
+  },
+  {
+    "categoria": "Combinações",
+    "texto": "Abra um livro qualquer e aponte três palavras sem olhar. Escreva um texto em que as três sejam essenciais."
+  },
+  {
+    "categoria": "Combinações",
+    "texto": "Combine duas profissões que nunca se encontrariam — um astronauta e um sapateiro, por exemplo. Escreva a cena do encontro."
+  },
+  {
+    "categoria": "Combinações",
+    "texto": "Peça para alguém perto de você dizer uma palavra. Combine-a com a palavra <em>janela</em> e escreva uma frase."
+  },
+  {
+    "categoria": "Combinações",
+    "texto": "Pegue dois provérbios conhecidos, troque as metades de cada um, e escreva um texto que dê sentido ao provérbio novo que nasceu."
+  },
+  {
+    "categoria": "Combinações",
+    "texto": "Abra um livro em uma página aleatória. A primeira frase que você ler é o começo do seu texto de hoje."
+  },
+  {
+    "categoria": "Combinações",
+    "texto": "Sorteie mentalmente um objeto e uma emoção. Escreva uma cena em que esse objeto provoca exatamente essa emoção."
+  },
+  {
+    "categoria": "Combinações",
+    "texto": "Pense em um animal e uma profissão. Escreva um parágrafo sobre alguém que tem essa profissão e se parece com esse animal."
+  },
+  {
+    "categoria": "Combinações",
+    "texto": "Combine duas palavras que normalmente não ficam juntas (ex: <em>travesseiro matemático</em>, <em>silêncio crocante</em>). Escreva um parágrafo dando sentido a essa combinação."
+  },
+  {
+    "categoria": "Combinações",
+    "texto": "Pegue os títulos de dois livros ou filmes diferentes e junte-os em um só. Escreva a história que esse título híbrido pede."
+  },
+  {
+    "categoria": "Combinações",
+    "texto": "Pense no último sonho que você lembra. Misture-o com algo que aconteceu ontem. Escreva o resultado."
+  },
+  {
+    "categoria": "Combinações",
+    "texto": "Coloque um personagem no lugar certo, mas na época errada. Escreva como ele se vira com isso."
+  },
+  {
+    "categoria": "Tempo",
+    "texto": "Escreva sobre algo que acabou. Não diga o que é — deixe o leitor descobrir."
+  },
+  {
+    "categoria": "Tempo",
+    "texto": "Imagine um povo que vive sem nenhuma forma de medir o tempo. Escreva uma cena cotidiana em que <em>horário</em> não significa nada."
+  },
+  {
+    "categoria": "Tempo",
+    "texto": "Conte a mesma história três vezes: uma no passado, uma no presente e uma no futuro."
+  },
+  {
+    "categoria": "Tempo",
+    "texto": "Descreva a terceira vez que alguém vive exatamente o mesmo dia. O que ele já não suporta? O que ele finalmente repara?"
+  },
+  {
+    "categoria": "Tempo",
+    "texto": "Escolha um minuto qualquer do dia de um personagem. Dentro desse minuto, deixe a mente dele viajar por uma vida inteira."
+  },
+  {
+    "categoria": "Tempo",
+    "texto": "Escreva uma carta para você mesmo no futuro, para ser lida daqui a exatamente um ano."
+  },
+  {
+    "categoria": "Tempo",
+    "texto": "Conte uma história do fim para o começo, parágrafo por parágrafo, até chegar ao instante em que tudo começou."
+  },
+  {
+    "categoria": "Tempo",
+    "texto": "Descreva o que aconteceu entre duas fotos: uma de dez anos atrás e uma de hoje."
+  },
+  {
+    "categoria": "Tempo",
+    "texto": "Descreva um minuto inteiro em câmera lenta. Cada segundo é um parágrafo."
+  },
+  {
+    "categoria": "Tempo",
+    "texto": "Escreva sobre este exato momento daqui a cem anos. O que restou? O que mudou?"
+  },
+  {
+    "categoria": "Tempo",
+    "texto": "Escreva uma carta que só foi entregue vinte anos depois de escrita. Mostre o descompasso entre o que foi dito e o agora de quem lê."
+  }
+]

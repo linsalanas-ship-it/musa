@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Musa — um exercício de escrita por dia</title>
+    <meta
+      name="description"
+      content="Musa mostra um exercício de escrita criativa por dia. Uma oficina silenciosa: a fagulha inicial é nossa, o resto é seu."
+    />
+    <meta name="color-scheme" content="light dark" />
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%E2%9C%92%EF%B8%8F%3C/text%3E%3C/svg%3E" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <main class="palco" aria-live="polite">
+      <p class="saudacao" id="saudacao"></p>
+
+      <article class="exercicio" id="exercicio-bloco" hidden>
+        <p class="categoria" id="categoria"></p>
+        <p class="texto" id="texto"></p>
+        <p class="credito" id="credito" hidden></p>
+      </article>
+
+      <p class="estado" id="estado">Carregando o exercício de hoje…</p>
+    </main>
+
+    <footer class="rodape">
+      <span>Musa · um exercício de escrita criativa por dia</span>
+    </footer>
+
+    <script src="/app.js"></script>
+  </body>
+</html>
