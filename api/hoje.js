@@ -36,6 +36,28 @@ function ipDoCliente(req) {
   return (req.socket && req.socket.remoteAddress) || "desconhecido";
 }
 
+// Segundos restantes até a próxima meia-noite no fuso America/Sao_Paulo.
+// Usado para alinhar a expiração do cache à virada do dia: o conteúdo do dia
+// fica em cache até a meia-noite de SP e expira exatamente quando o exercício
+// muda — sem servir o item anterior por uma janela fixa após a virada.
+function segundosAteMeiaNoiteSP() {
+  const partes = new Intl.DateTimeFormat("en-GB", {
+    timeZone: "America/Sao_Paulo",
+    hour: "2-digit",
+    minute: "2-digit",
+    second: "2-digit",
+    hour12: false,
+  }).formatToParts(new Date());
+
+  const get = (tipo) => Number(partes.find((p) => p.type === tipo).value);
+  let h = get("hour");
+  if (h === 24) h = 0; // "24" à meia-noite em alguns ambientes
+  const decorridos = h * 3600 + get("minute") * 60 + get("second");
+  const restam = 86400 - decorridos;
+  // Garante um mínimo para evitar max-age=0 no exato instante da virada.
+  return Math.max(1, restam);
+}
+
 // CORS restrito à própria origem: só respondemos a requisições same-origin.
 // Requisições same-origin do navegador não enviam o header Origin; quando ele
 // vem e não bate com o host da requisição, recusamos.
@@ -70,8 +92,11 @@ module.exports = (req, res) => {
     return;
   }
 
-  // Cache curto: ajuda a aliviar carga sem revelar nada além do dia atual.
-  res.setHeader("Cache-Control", "public, max-age=300");
+  // Cache alinhado à virada do dia em São Paulo: expira na meia-noite de SP,
+  // quando o exercício muda. Alivia carga sem servir o item anterior depois
+  // da virada.
+  const ttl = segundosAteMeiaNoiteSP();
+  res.setHeader("Cache-Control", "public, max-age=" + ttl + ", s-maxage=" + ttl);
   res.setHeader("Content-Type", "application/json; charset=utf-8");
   res.setHeader("X-Content-Type-Options", "nosniff");
 
