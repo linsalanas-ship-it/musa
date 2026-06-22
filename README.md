@@ -54,6 +54,10 @@ Como isso é garantido:
    ```json
    { "saudacao": "...", "exercicio": { "texto": "...", "categoria": "...", "credito": "..."? } }
    ```
+   O cache (`Cache-Control`) é alinhado à virada do dia: o `max-age` é o número
+   de segundos até a próxima meia-noite em `America/Sao_Paulo`, então o conteúdo
+   expira exatamente quando o exercício muda — nada de servir o item anterior
+   depois da virada.
    Não há `id`, número sequencial nem total — nada que revele o tamanho da
    coleção ou permita iterar.
 3. **Índice calculado pelo relógio do servidor** (`America/Sao_Paulo`).
