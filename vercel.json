@@ -1,0 +1,16 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "functions": {
+    "api/hoje.js": {
+      "includeFiles": "api/data/**"
+    }
+  },
+  "headers": [
+    {
+      "source": "/api/hoje",
+      "headers": [
+        { "key": "X-Content-Type-Options", "value": "nosniff" }
+      ]
+    }
+  ]
+}

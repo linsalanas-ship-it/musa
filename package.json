@@ -1,0 +1,11 @@
+{
+  "name": "musa",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Musa — um exercício de escrita criativa por dia.",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel deploy --prod"
+  },
+  "license": "MIT"
+}

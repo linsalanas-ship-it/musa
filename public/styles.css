@@ -1,0 +1,133 @@
+:root {
+  --bg: #faf9f7;
+  --fg: #1b1b1a;
+  --muted: #6b6a66;
+  --faint: #9b9a95;
+  --accent: #8a7a5c;
+  --max-width: 38rem;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #14130f;
+    --fg: #ecebe6;
+    --muted: #9b9a93;
+    --faint: #6f6e68;
+    --accent: #c8b78f;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+}
+
+.palco {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  gap: 1.5rem;
+  padding: 2rem 1.5rem;
+  max-width: var(--max-width);
+  margin: 0 auto;
+  width: 100%;
+}
+
+.saudacao {
+  margin: 0;
+  color: var(--muted);
+  font-size: 1rem;
+  font-weight: 400;
+  letter-spacing: 0.01em;
+}
+
+.exercicio {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  animation: surgir 0.6s ease both;
+}
+
+.categoria {
+  margin: 0;
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  font-size: 0.72rem;
+  font-weight: 500;
+  color: var(--faint);
+}
+
+.texto {
+  margin: 0;
+  font-size: clamp(1.5rem, 4.2vw, 2.2rem);
+  font-weight: 500;
+  line-height: 1.32;
+  letter-spacing: -0.01em;
+}
+
+.texto em {
+  font-style: italic;
+  font-weight: 500;
+}
+
+.credito {
+  margin: 0;
+  font-size: 0.82rem;
+  font-style: italic;
+  color: var(--faint);
+  line-height: 1.45;
+}
+
+.estado {
+  margin: 0;
+  color: var(--faint);
+  font-size: 0.95rem;
+}
+
+.rodape {
+  text-align: center;
+  padding: 1.5rem;
+  color: var(--faint);
+  font-size: 0.72rem;
+  letter-spacing: 0.04em;
+}
+
+@keyframes surgir {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .exercicio {
+    animation: none;
+  }
+}
